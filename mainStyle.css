@@ -84,6 +84,7 @@ a:active {
 .footer {
   position: absolute;
   bottom: 0;
+  font-size:9px;
   width: 100%;
   /* Set the fixed height of the footer here */
   height: 40px;
