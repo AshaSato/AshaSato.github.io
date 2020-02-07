@@ -12,6 +12,7 @@ body {
 
 
 .content{
+	text-align: center;
 	width: 800;
 	padding: 50px;
 }
