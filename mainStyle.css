@@ -11,6 +11,10 @@ body {
 }
 
 
+.content{
+	padding: 50px;
+}
+
  /* unvisited link */
 a:link {
     color: #403238;
